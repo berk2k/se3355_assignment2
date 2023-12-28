@@ -10,6 +10,6 @@
     
 # Data Model
 
-    ![image](https://github.com/berk2k/se4458_midterm_19070006043/blob/master/dm/dm.JPG)<br/>
+    ![image](https://github.com/berk2k/se3355_assignment2/blob/master/dm/dm.JPG)<br/>
 
 
