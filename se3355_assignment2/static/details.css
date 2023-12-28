@@ -1,0 +1,15 @@
+.small-image {
+    max-width: 200px; 
+    height: auto;    
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+}
+
+.card-body img {
+    max-width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
